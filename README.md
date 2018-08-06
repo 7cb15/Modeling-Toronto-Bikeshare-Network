@@ -1,2 +1,2 @@
-# Simulation-Modeling-of-Toronto-Bikeshare-Network
-An agent-based simulation model of trips taken in the Toronto bike share network based on trip level data
+# Modeling Toronto Bikeshare Network
+Using the NetworkX library to model and visualize the trip data for the Toronto Bikeshare Network (data from Q4 2016).
