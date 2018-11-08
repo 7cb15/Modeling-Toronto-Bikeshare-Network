@@ -1,7 +1,7 @@
 # Modeling Toronto Bikeshare Network
 Using the NetworkX library to model and visualize the trip data for the Toronto Bikeshare Network (data from Q4 2016). Using LAT-LON coordinates at position attribute data we're able to visualize the network in the shape of the city.
 
-![alt text](Toronto Bike Network Networkx Output.png)
+![alt text](bikesharenetwork.png)
 
 You can find the data from Open Toronto: 
 
